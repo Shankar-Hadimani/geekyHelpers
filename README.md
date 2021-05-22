@@ -1,1 +1,1 @@
-# geekyHelpers
+Helper Functions for quick use... :)
